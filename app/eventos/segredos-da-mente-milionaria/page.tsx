@@ -272,7 +272,7 @@ export default function SegredosDaMenteMilionaria() {
 
           <div className="flex justify-center">
             <a 
-              href="https://sun.eduzz.com/39YDX2R49O" 
+              href="https://sun.eduzz.com/Z0B5XXE6WA" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="bg-yellow-400 hover:bg-yellow-500 text-zinc-900 font-bold py-4 px-8 rounded-full text-lg md:text-xl transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl"
